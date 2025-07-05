@@ -1,5 +1,4 @@
-<h1 align="center">Привет! Меня зовут <a href="https://hh.ru/resume/1ba2dd79ff0e1a37a00039ed1f495055726335" target="_blank">Алина</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h1 align="center">Привет! Меня зовут <a href="https://hh.ru/resume/1ba2dd79ff0e1a37a00039ed1f495055726335" target="_blank">Алина</a> </h1>
 <h3 align="center">Java-разработчик</h3>
 
 ## 📫 Контакты
